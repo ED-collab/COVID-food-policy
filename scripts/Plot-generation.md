@@ -17,6 +17,8 @@ databases. This means that each time you run the script it will give you
 the most recently reported data. I am running the script on a subset of
 countries that I want to compare, at national level (=1).
 
+I'll let it print the authors' message re:citing them - all well-deserved credit to the package creators!
+
 ``` r
 ##### Get raw data up to the minute from COVID19 package ####
 rawdata <- covid19(c("Cambodia","Vietnam","Thailand","China"), level = 1)
@@ -68,7 +70,7 @@ cases
 
 ![](Plot-generation_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
-Panel 2 will contain the stringency index for measuring COVID policy
+That gets the message across. Not that the y-axis is log scaled and I've removed the legend - we only need one for the two panels. Panel 2 will contain the stringency index for measuring COVID policy
 application. I parameterize them the same way to match colours and dot
 types.
 
