@@ -2,7 +2,7 @@
 title: "Making the simple plot"
 author: "Erik Delaquis"
 date: "4/7/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
