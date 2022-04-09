@@ -4,4 +4,4 @@ A simple script to compare COVID cases and stringency of policy response over ti
 
 This script is very basic, producing a 2-panel graph demonstrating covariance in cumulative number of cases from aggregated national reporting, and policy stringency index developed and maintained by the [Oxford COVID-19 Government Response Tracker, Blavatnik School of Government](https://doi.org/10.1038/s41562-021-01079-). This gives a quick way to map a complex, aggregate level of policy response to the pandemic.
 
-Navigate to 'scripts -> Plot-generation.md' to see the code and generated plots.
+Navigate to [scripts -> Plot-generation.md](https://github.com/ED-collab/COVID-food-policy/blob/main/scripts/Plot-generation.md) to see the step-by-step code and generated plots.
